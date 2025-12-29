@@ -1,2 +1,2 @@
-# Assignment4_RetailSales_PowerBI
+# RetailSales_PowerBI
 PowerBI
